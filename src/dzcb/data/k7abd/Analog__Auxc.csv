@@ -1,0 +1,5 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+Analog Auxc,TAC 1,25K,High,147.45,147.45,Off,Off,Off
+Analog Auxc,TAC1 TONE,25K,High,147.45,147.45,103.5,103.5,Off
+Analog Auxc,TAC 2,25K,High,146.535,146.535,Off,Off,Off
+Analog Auxc,TAC 3,25K,High,146.555,146.555,Off,Off,Off

@@ -1,0 +1,17 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+Cat   Analog,Cat 147.075,25K,High,147.075,147.675,88.5,88.5,Off
+Cat   Analog,Cat 462.625,25K,High,462.625,467.625,Off,Off,Off
+Cat   Analog,Cat 168.85,25K,High,146.685,146.25,Off,Off,Off
+Cat   Analog,Cat 444,25K,High,444,449,Off,Off,Off
+Cat   Analog,Cat 444.075,25K,High,444.075,449.075,100,100,Off
+Cat   Analog,Cat 444.375,25K,High,444.375,449.375,107.2,107.2,Off
+Cat   Analog,Cat 444.8,25K,High,444.8,449.8,94.8,94.8,Off
+Cat   Analog,Cat 147.17,25K,High,145.17,144.57,88.5,88.5,Off
+Cat   Analog,Cat 442.375,25K,High,442.375,447.375,131.8,131.8,Off
+Cat   Analog,Cat 444.65,25K,High,444.65,449.65,D315N,D315N,Off
+Cat   Analog,Cat 444.2,25K,High,444.2,449.2,100,62.5,Off
+Cat   Analog,Cat 147.195,25K,High,147.195,147.795,94.8,94.8,Off
+Cat   Analog,Cat 441.875,25K,High,441.875,446.875,100,100,Off
+Cat   Analog,CAT 441.625,25K,High,441.625,446.625,123,123,Off
+Cat   Analog,CAT 444.075,25K,High,444.075,449.075,62.5,62.5,Off
+Cat   Analog,CAT 145.04,25K,High,145.04,144.44,62.5,62.5,Off

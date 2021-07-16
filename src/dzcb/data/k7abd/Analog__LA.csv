@@ -1,0 +1,4 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+Analog LA,DDL 2m,25K,High,146.82,146.22,103.5,103.5,Off
+Analog LA,DDL 70cm,25K,High,443,448,103.5,Off,Off
+Analog LA,WA5TNK,25K,High,145.37,144.77,103.5,103.5,Off

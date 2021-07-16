@@ -1,0 +1,19 @@
+Zone,Channel Name,Power,RX Freq,TX Freq,Color Code,Talk Group,TimeSlot,Call Type,TX Permit
+HS NC,NC ST,Low,441.025,441.025,1,NC State,1,Group Call,Always
+HS NC,Roar,Low,441.025,441.025,1,Roar,1,Group Call,Always
+HS NC,CVARS,Low,441.025,441.025,1,CVARS,1,Group Call,Always
+HS NC,NC TAC,Low,441.025,441.025,1,NC TAC,1,Group Call,Always
+HS NC,NC RTP,Low,441.025,441.025,1,NC RTP,1,Group Call,Always
+HS NC,NC EAST,Low,441.025,441.025,1,NC East,1,Group Call,Always
+HS NC,Caro 440,Low,441.025,441.025,1,Carolina 44O,1,Group Call,Always
+HS NC,CLT Metro,Low,441.025,441.025,1,NC CLT Metro,1,Group Call,Always
+HS NC,NC W TAC,Low,441.025,441.025,1,NC West TAC,1,Group Call,Always
+HS NC,NC OBX,Low,441.025,441.025,1,NC OBX,1,Group Call,Always
+HS NC,NC WX,Low,441.025,441.025,1,NC WX,1,Group Call,Always
+HS NC,Auxcomm,Low,441.025,441.025,1,Auxcomm,1,Group Call,Always
+HS NC,HURRI,Low,441.025,441.025,1,Hurricane Net,1,Group Call,Always
+HS NC,EHPC CLSTR,Low,441.025,441.025,1,EHPC CLUSTER,1,Group Call,Always
+HS NC,WW 91,Low,441.025,441.025,1,WW 91,1,Group Call,Always
+HS NC,Echotest,Low,441.025,441.025,1,Echotest,1,Group Call,Always
+HS NC,Discon,Low,441.025,441.025,1,Discon,1,Group Call,Always
+HS NC,AUXCOMM,Low,441.025,441.025,1,Auxcomm,1,Group Call,Always

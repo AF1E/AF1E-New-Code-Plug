@@ -1,0 +1,22 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+Marine,Mar-Ch06 156.3,25K,High,156.3,156.3,Off,Off,On
+Marine,Mar-Ch08 156.4,25K,High,156.4,156.4,Off,Off,On
+Marine,Mar-Ch09 156.45,25K,High,156.45,156.45,Off,Off,On
+Marine,Mar-Ch13 156.65,25K,High,156.65,156.65,Off,Off,On
+Marine,Mar-Ch14 156.7,25K,High,156.7,156.7,Off,Off,On
+Marine,Mar-Ch16 156.8,25K,High,156.8,156.8,Off,Off,On
+Marine,Mar-Ch17 156.85,25K,High,156.85,156.85,Off,Off,On
+Marine,Mar-Ch19A 156.95,25K,High,156.95,156.95,Off,Off,On
+Marine,Mar-Ch21A 157.05,25K,High,157.05,157.05,Off,Off,On
+Marine,Mar-Ch22A 157.1,25K,High,157.1,157.1,Off,Off,On
+Marine,Mar-Ch22-Dplx,25K,High,161.7,157.1,Off,Off,On
+Marine,Mar-Ch23A 157.15,25K,High,157.15,157.15,Off,Off,On
+Marine,Mar-Ch68 156.425,25K,High,156.425,156.425,Off,Off,On
+Marine,Mar-Ch69 156.475,25K,High,156.475,156.475,Off,Off,On
+Marine,Mar-Ch71 156.575,25K,High,156.575,156.575,Off,Off,On
+Marine,Mar-Ch72 156.625,25K,High,156.625,156.625,Off,Off,On
+Marine,Mar-Ch73 156.675,25K,High,156.675,156.675,Off,Off,On
+Marine,Mar-Ch74 156.725,25K,High,156.725,156.725,Off,Off,On
+Marine,Mar-Ch77 156.875,25K,High,156.875,156.875,Off,Off,On
+Marine,Mar-Ch82A 157.125,25K,High,157.125,157.125,Off,Off,On
+Marine,Mar-Ch83A 157.175,25K,High,157.175,157.175,Off,Off,On

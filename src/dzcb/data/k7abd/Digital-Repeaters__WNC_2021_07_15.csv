@@ -1,0 +1,8 @@
+Zone Name,Comment,Power,RX Freq,TX Freq,Color Code,Clr TS1,Clr TS2,Echotest,Local,NA 3 ,NET 411,PRN,SE Reg,TAC 310,TAC 311,TAC 312,WNC,WW ENG
+Fkln; FKLN,,High,444.375,449.375,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+AVL; AVL,,High,442.55,447.55,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+Gas; GAS,,High,443.5875,448.5875,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+Hndr; Hndr,,High,442.45,447.45,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+Marin; Mrn,,High,444.85,449.85,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+MGTN; MRG,,High,442.3,447.3,1,1,2,1,1,1,1,2,2,1,1,1,2,1
+WYNL;WYN,,High,444.45,449.45,1,1,2,1,1,1,1,2,2,1,1,1,2,1

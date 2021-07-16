@@ -1,0 +1,7 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+APRS,2m APRS,25K,Turbo,144.39,144.39,Off,Off,Off
+APRS,2m APRS RX,25K,Turbo,144.39,144.39,Off,Off,Off
+APRS,2m APRS2 Mute,25K,Turbo,144.39,144.39,Off,D026N,Off
+APRS,2m APRS Input +,25K,Turbo,144.39,144.99,Off,Off,Off
+APRS,2m APRS Input -,25K,Turbo,144.39,143.79,Off,Off,Off
+APRS,APRS UHF Analog,25K,Turbo,445.925,445.925,Off,Off,Off

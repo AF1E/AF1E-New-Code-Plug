@@ -1,0 +1,9 @@
+Zone,Channel Name,Power,RX Freq,TX Freq,Color Code,Talk Group,TimeSlot,Call Type,TX Permit
+HS TN,TN TEMA,Low,441.025,441.025,1,TEMA,2,Group Call,Always
+HS TN,TN TAC,Low,441.025,441.025,1,TN TAC,1,Group Call,Always
+HS TN,TN STATEWIDE,Low,441.025,441.025,1,TN State,1,Group Call,Always
+HS TN,TN MTEARS WX,Low,441.025,441.025,1,TN MTEARS WX,1,Group Call,Always
+HS TN,TN MEMPHIS,Low,441.025,441.025,1,TN Memphis,1,Group Call,Always
+HS TN,TN KNOX METRO,Low,441.025,441.025,1,TN Memphis,1,Group Call,Always
+HS TN,FEMA Region 4,Low,441.025,441.025,1,SE Region 4,1,Group Call,Always
+HS TN,TN Auxcomm,Low,441.025,441.025,1,Auxcomm,1,Group Call,Always

@@ -1,0 +1,4 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+A HHI,HHI 145.31,25K,High,145.31,144.71,62.5,62.5,Off
+A HHI,HHI 147.24,25K,High,147.24,147.84,62.5,62.5,Off
+Ag HHI,HHi 444.35,25K,High,444.35,449.35,62.5,62.5,Off
