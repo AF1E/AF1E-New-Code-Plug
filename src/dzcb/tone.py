@@ -1,6 +1,7 @@
 """All valid PL / DCS tones"""
 
 VALID_TONES = [
+    "62.5",
     "67.0",
     "69.3",
     "71.9",
